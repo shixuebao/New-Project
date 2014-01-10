@@ -1,1 +1,3 @@
-aaaaaaaaaaa
+<?php
+  echo "shixuebao";
+?>
